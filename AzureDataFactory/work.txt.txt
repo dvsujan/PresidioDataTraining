@@ -1,0 +1,8 @@
+Learned about: 
+pipelines 
+copy activity 
+expression builder 
+difference between variable and parameter 
+bulk inserting data
+
+Azure Data Factory pipelines automate complex data workflows enabling easy data integration and movement across various sources and destinations.

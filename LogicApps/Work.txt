@@ -1,0 +1,5 @@
+Learned about azure logic apps . different ways to automate services by using triggers and connections
+included in the logic apps for different use cases 
+usecase1: Automate mailing list using logic apps 
+usecase2: Automate data syncing 
+usecase3: Monitoring and mail if there is an error  in the pipeline
